@@ -12,8 +12,8 @@ body {
     overflow: hidden;
 }
 #background{
-  width: 1156px;
-  height: 650px;
+  width: 100%;/*1156px;*/
+  height: 100%/*650px;*/
   margin: 0 auto;
 }
 .box {
